@@ -9,4 +9,4 @@ Suppose:
 - Each of the points is represented by (x,y) or (northing, easting) coordinates.
 - There are two bearings that will be of interest namely *alpha_1*, *alpha_2*. Where *alpha_1* is the bearing of point C measured from point A and *alpha_2* that of point B measured from point A etc.
 ### Calculations
-$ \dfrac {\Delta N_ac = (N_b - N_a)tan\alpha 2 - (E_b - E_a)}{tan \alpha 2 - tan \alpha 1}
+$ \dfrac {\Delta N_ac = (N_b - N_a)tan\alpha 2 - (E_b - E_a)}{tan \alpha 2 - tan \alpha 1} $
