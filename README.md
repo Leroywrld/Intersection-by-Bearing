@@ -3,7 +3,7 @@
 ### Introduction
 - This project shows the implementation of the *intersection-by-bearing* algorithm used to calculate the **northing** and **easting** coordinates of a third point given that the coordinates of two other points are **known**.
 ### Some Context
-![Javatpoint](C:\Users\User\Desktop\LEE SCHOOLWORK\GPS_programs\bearing_illustration.png)
+![Javatpoint](C:\\Users\\User\\Desktop\\LEE SCHOOLWORK\\GPS_programs\\bearing_illustration.png)
 Suppose: 
 - 3 points: A, B and C exist in a geographic cartesian space.
 - Each of the points is represented by (x,y) or (northing, easting) coordinates.
